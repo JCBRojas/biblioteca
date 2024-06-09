@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Bienvenidos </h1>
-    <h2>archivo 1</h2>
-    <h2>Alexander</h2>
+    <h1>Hello Sebastian</h1>
 </body>
 </html>
